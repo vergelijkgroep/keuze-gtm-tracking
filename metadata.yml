@@ -15,5 +15,5 @@
 homepage: "https://www.keuze.nl"
 documentation: "https://www.keuze.nl"
 versions:
-  - sha: 0000000000000000000000000000000000000000
-    changeNotes: Initial Version
+  - sha: 506f00fc4b230e79bafd393b053c48fa732e5732
+    changeNotes: Initial version
